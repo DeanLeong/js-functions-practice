@@ -3,6 +3,7 @@ plugins:
   - import
 env:
   browser: true
+  mocha: true
 rules:
   strict: 0
   global-require: 0

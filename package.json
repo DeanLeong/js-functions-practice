@@ -11,7 +11,10 @@
     "type": "git",
     "url": "git@git.generalassemb.ly:wdi-nyc/js-functions-lab.git"
   },
-  "keywords": [ "javascript", "lab" ],
+  "keywords": [
+    "javascript",
+    "lab"
+  ],
   "author": "Gerry Mathe",
   "contributors": [
     "Jason Seminara <jason.seminara@ga.co>",
@@ -23,6 +26,7 @@
     "eslint": "^4.0.0",
     "eslint-config-airbnb-base": "^11.2.0",
     "eslint-plugin-import": "^2.3.0",
+    "jsdox": "^0.4.10",
     "mocha": "^3.4.2"
   }
 }

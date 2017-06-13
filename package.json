@@ -1,0 +1,28 @@
+{
+  "name": "js-functions-lab",
+  "version": "1.0.0",
+  "description": "JavaScript Functions Lab",
+  "main": "functions.js",
+  "private": true,
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.generalassemb.ly:wdi-nyc/js-functions-lab.git"
+  },
+  "keywords": [ "javascript", "lab" ],
+  "author": "Gerry Mathe",
+  "contributors": [
+    "Jason Seminara <jason.seminara@ga.co>",
+    "Alex Notov"
+  ],
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "eslint": "^4.0.0",
+    "eslint-config-airbnb-base": "^11.2.0",
+    "eslint-plugin-import": "^2.3.0",
+    "mocha": "^3.4.2"
+  }
+}

@@ -15,7 +15,7 @@ function isCharacterAVowel() {
 
 // Question 4
 function sumArray() {
- 
+
 }
 
 
@@ -27,26 +27,26 @@ function multiplyArray() {
 
 // Question 5
 var numberOfArguments = function(){
-  
+
 }
 
 
 
 // Question 6
 var reverseString = function (){
-  
+
 };
 
 
 // Question 7
 function findLongestWord () {
-  
+
 }
 
 
 // Question 8
 function filterLongWords () {
-  
+
 }
 
 
@@ -56,6 +56,6 @@ function filterLongWords () {
 
 // Bonus 2
 function charactersOccurencesCount() {
-  
+
 }
 

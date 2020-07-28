@@ -139,7 +139,7 @@ const jsFunctionsLab = (() => {
 => ['longest', 'longer']
    */
 
-  function filterLongWords(arrayOfWords, len) {
+  function filterLongWords(arrayOfWords, length) {
     // CODE HERE
   }
   console.log(filterLongWords(['short', 'longest', 'longer'], 5) + ` <= this answer should be ['longest', 'longer']`)
